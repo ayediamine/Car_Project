@@ -66,4 +66,3 @@ QString Item::getImageFilePath() const
 {
     return imageFilePath;
 }
-//change for conflict from remote
